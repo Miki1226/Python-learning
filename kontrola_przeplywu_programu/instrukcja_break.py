@@ -18,7 +18,7 @@ print('Koniec')
 
 #%%
 
-sample = 'Python Course'
+sample = 'Python learning'
 for char in sample:
     if char == ' ':
         break
