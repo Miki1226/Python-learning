@@ -129,6 +129,13 @@ version = '3.8'
 name += version
 print(name)
 
+#%%
+age = 20
+
+print(f'Mam {age} lat.')
+print('Mam {} lat.'.format(age))
+
+
 
 
 
