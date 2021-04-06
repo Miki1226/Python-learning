@@ -83,9 +83,6 @@ else:
     print('Zbyt dużo prób logowania.')
 
 #%%
-age = 20
-
-print(f'Mam {age} lat.')
 
 
 
